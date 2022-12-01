@@ -1,0 +1,21 @@
+{
+	"name":"com.smidgenomics.unity-search",
+	"version":"0.1.0",
+	"displayName":"Search",
+	"description":"Search algorithms",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Smidgens/unity-search.git"
+	},
+	"author":{
+		"name":"Unnar Krist",
+		"url":"https://github.com/Smidgens"
+	},
+	"keywords":[
+		"unity-search",
+		"search-algorithm",
+		"a*",
+		"search",
+		"smidgenomics"
+	]
+}
