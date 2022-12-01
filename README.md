@@ -2,10 +2,15 @@
 
 Generic search algorithms for Unity.
 
+[Wiki](https://github.com/Smidgenomics/unity.plugins/wiki/Search-Algorithms)
+
+<br/>
+
 # 🎯 Goals
 
 * Implement standard boilerplate for common algorithms while staying as generic as possible to allow for a multitude of use cases through extensions.
 
+<br/>
 
 # ℹ️ Features
 
@@ -14,12 +19,6 @@ Generic search algorithms for Unity.
 * Algorithms:
 	* `A*`
 
-
-**⌛ Future**
-
-* Common search algorithms such as binary search.
-* Common graph algorithms (DF, BF,...)
-
 <br/>
 
 # 📦 Install
@@ -27,3 +26,10 @@ Generic search algorithms for Unity.
 1. Open Package Manager
 2. Paste GitHub URL:\
 `https://github.com/Smidgens/unity-search.git#<version_tag>`
+
+<br/>
+
+# ⌛ Planned
+
+* Common search algorithms such as binary search.
+* Common graph algorithms (DF, BF,...)
