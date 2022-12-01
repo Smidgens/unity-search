@@ -1,7 +1,5 @@
 <img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/search/banner.png" width="100%"/>
 
-Generic search algorithms for Unity.
-
 [Wiki](https://github.com/Smidgenomics/unity.plugins/wiki/Search-Algorithms)
 
 <br/>
