@@ -1,4 +1,4 @@
-![](https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/search/banner.png "")
+<img src="https://raw.githubusercontent.com/Smidgenomics/unity.plugins/master/search/banner.png" width="100%"/>
 
 Generic search algorithms for Unity.
 
@@ -11,17 +11,14 @@ Generic search algorithms for Unity.
 
 * Fairly low level and use-case agnostic - extensible through custom heuristics.
 * Reasonably performant. 🤞
-
-## Algoritms
-
-* A*
+* Algorithms:
+	* `A*`
 
 
 **⌛ Future**
 
-* Common search algorithms (binary search)
-* Common graph algorithms (depth-1st, breadth-1st,...)
-
+* Common search algorithms such as binary search.
+* Common graph algorithms (DF, BF,...)
 
 <br/>
 
